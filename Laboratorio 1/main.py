@@ -2,16 +2,14 @@ import pandas as pd
 
 def main():
     
-    # Carga de datos
+    # Cargue el dataset en un dataframe de pandas, muestre un ejemplo de cinco observaciones.
     data = pd.read_csv("./Laboratorio 1/dataset_pishing.csv")
 
-    # Imprimir los primeros 5 registros
+    # Muestre la cantidad de observaciones etiquetadas en la columna status como “legit” y como “pishing”. ¿Está balanceado el dataset?
 
-    print(data.head())
+    print(data["status"].value_counts())
 
-    # Imprimir los ultimos 5 registros
-
-    print(data.tail())
+    
 
 
                  
