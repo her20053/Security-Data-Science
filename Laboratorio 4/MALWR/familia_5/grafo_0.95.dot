@@ -1,0 +1,9 @@
+strict graph  {
+"./MALWR/familia_5/grafo_0.8.dot" [label="grafo_0.8."];
+"./MALWR/familia_5/RTC_7F85D7F628CE62D1D8F7B39D8940472" [label=RTC_7F85D7];
+"./MALWR/familia_5/grafo_0.8.png" [label="grafo_0.8."];
+"./MALWR/familia_5/VBMM9_149B7BD7218AAB4E257D28469FDDB0D" [label=VBMM9_149B];
+"./MALWR/familia_5/grafo_0.6.png" [label="grafo_0.6."];
+"./MALWR/familia_5/FGTR43_EF8E0FB20E7228C7492CCDC59D87C690" [label=FGTR43_EF8];
+"./MALWR/familia_5/grafo_0.6.dot" [label="grafo_0.6."];
+}
